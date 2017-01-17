@@ -41,7 +41,7 @@
     "htmlescape": "^1.1.0",
     "https-browserify": "~0.0.0",
     "inherits": "~2.0.1",
-    "insert-module-globals": "^7.0.0",
+    "insert-module-globals": "juliangruber/insert-module-globals#make-paths-relative",
     "labeled-stream-splicer": "^2.0.0",
     "module-deps": "^4.0.8",
     "os-browserify": "~0.1.1",
